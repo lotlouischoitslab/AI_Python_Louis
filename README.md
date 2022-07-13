@@ -7,6 +7,6 @@ This repository is for me when I code AI, Machine Learning, and Deep Learning st
 ### Artificial Intelligence: TBA
 
 ### Applied Machine Learning: 
- - ### Codebasics Tutorial: https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+ - ##### Codebasics Tutorial: https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 
 ### Deep Learning for Computer Vision: TBA
