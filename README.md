@@ -1,8 +1,8 @@
-# Artificial Intelligence in Python for Louis Sungwoo Cho
+## Artificial Intelligence in Python for Louis Sungwoo Cho
 
 All Algorithms, AI, Machine Learning, and Deep Learning stuff in Python when I need to refer to.
 
-# Useful Resources:
+## Useful Resources:
 
 ### Artificial Intelligence: 
  - ##### Algorithms & Data Structures Review Folder
