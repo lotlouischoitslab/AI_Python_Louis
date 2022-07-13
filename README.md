@@ -1,6 +1,6 @@
 # Artificial Intelligence in Python for Louis Sungwoo Cho
 
-All Algorithms, AI, Machine Learning, and Deep Learning stuff in Python when I need to refer to just in case I get stuck.
+All Algorithms, AI, Machine Learning, and Deep Learning stuff in Python when I need to refer to.
 
 # Useful Resources:
 
