@@ -9,7 +9,7 @@ AI, Machine Learning, and Deep Learning Algorithms in Python when I need to refe
 
 ### Applied Machine Learning: 
  - ##### Codebasics Tutorial: 
-  - https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+   - https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 
 ### Deep Learning for Computer Vision: TBA
 
