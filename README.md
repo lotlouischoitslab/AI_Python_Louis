@@ -4,7 +4,7 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
 
 인공지능, 머신러닝, 딥러닝과 강화학습 파이썬 자료실입니다. 
 
-### Useful Resources 자료목차:
+### Useful Resources 자료모음:
 
 #### Artificial Intelligence 인공지능: 
  - ##### Algorithms, Data Structures, and Python Review Folders
