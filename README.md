@@ -1,4 +1,4 @@
-#### Artificial Intelligence in Python for Louis Sungwoo Cho 조성우 인공지능 파이썬 자료실
+### Artificial Intelligence in Python for Louis Sungwoo Cho 조성우 인공지능 파이썬 자료실
 
 AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Python for my reference.
 
