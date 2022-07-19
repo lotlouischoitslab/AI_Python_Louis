@@ -2,7 +2,7 @@
 
 AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Python for my reference.
 
-조성우를 위한 인공지능, 머신러닝, 딥러닝, 강화학습 파이썬 자료실입니다. 
+인공지능, 머신러닝, 딥러닝, 강화학습 파이썬 자료실입니다. 
 
 ## Useful Resources:
 
