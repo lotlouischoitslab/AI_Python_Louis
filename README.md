@@ -11,6 +11,8 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
  - ##### Codebasics Tutorial: 
    - ###### https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 
-### Deep Learning for Computer Vision: TBA
+### Deep Learning for Computer Vision: 
+ - ##### Codebasics Tutorial:
+  - ###### https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
 ### Reinforcement Learning: TBA
