@@ -1,6 +1,6 @@
 ## Artificial Intelligence in Python for Louis Sungwoo Cho
 
-AI, Machine Learning, and Deep Learning Algorithms in Python for my reference.
+AI, Machine Learning, Deep Learning, and Reinforcement Algorithms in Python for my reference.
 
 ## Useful Resources:
 
