@@ -6,6 +6,9 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
 
 ### Artificial Intelligence: 
  - ##### Algorithms & Data Structures Review Folder
+ - ##### GongbroDesk 파이썬 기초
+    - ###### https://www.youtube.com/watch?v=8_VWnRvbGPs
+   
 
 ### Applied Machine Learning: 
  - ##### Codebasics Machine Learning Tutorial: 
