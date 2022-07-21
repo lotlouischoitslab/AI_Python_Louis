@@ -7,7 +7,7 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
 ### Useful Resources 자료모음:
 
 #### All Python Stuff 파이썬 자료모음: 
- - ##### Data Structures Review 자료구조 복습: https://youtu.be/pkYVOmU3MgA
+ - ##### Algorithms & Data Structures Review 알고리즘과 자료구조 복습: https://youtu.be/pkYVOmU3MgA
  - ##### 나도코딩 파이썬 기초: https://www.youtube.com/watch?v=kWiCuklohdY
  - ##### GongbroDesk 파이썬 기초: https://www.youtube.com/watch?v=8_VWnRvbGPs
  
