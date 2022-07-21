@@ -13,7 +13,7 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
  - ##### Data Structures Review: https://youtu.be/pkYVOmU3MgA
  - ##### Numerical Methods by Professor Mariana Silva: https://courses.grainger.illinois.edu/cs357/sp2022/pages/resources.html
  - ##### Probability & Statistics for CS by Professor Hongye Liu: https://courses.grainger.illinois.edu/cs361/fa2021/index.html
- - ##### Algorithms & Models of Computation by Professor Jeff Erickson: https://courses.engr.illinois.edu/cs374/fa2019/A/schedule.html
+ - ###### Algorithms & Models of Computation by Professor Jeff Erickson: https://courses.engr.illinois.edu/cs374/fa2019/A/schedule.html
  
 #### Artificial Intelligence 인공지능: 
  - ##### Edureka Artificial Intelligence Tutorial: https://www.youtube.com/watch?v=JMUxmLyrhSk
