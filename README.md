@@ -11,6 +11,7 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
  - ##### 나도코딩 파이썬 기초: https://www.youtube.com/watch?v=kWiCuklohdY
  - ##### GongbroDesk 파이썬 기초: https://www.youtube.com/watch?v=8_VWnRvbGPs
  - ##### Numerical Methods by Professor Mariana Silva: https://courses.grainger.illinois.edu/cs357/sp2022/pages/resources.html
+ - ##### Probability & Statistics for CS by Professor Hongye Liu: https://courses.grainger.illinois.edu/cs361/fa2021/index.html
  
 #### Artificial Intelligence 인공지능: 
  - ##### Edureka Artificial Intelligence Tutorial: https://www.youtube.com/watch?v=JMUxmLyrhSk
