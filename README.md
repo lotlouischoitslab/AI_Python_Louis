@@ -10,6 +10,7 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
  - ##### Algorithms & Data Structures Review 알고리즘과 자료구조 복습: https://youtu.be/pkYVOmU3MgA
  - ##### 나도코딩 파이썬 기초: https://www.youtube.com/watch?v=kWiCuklohdY
  - ##### GongbroDesk 파이썬 기초: https://www.youtube.com/watch?v=8_VWnRvbGPs
+ - ##### CS 357 Numerical Methods by Professor Mariana Silva: https://courses.grainger.illinois.edu/cs357/sp2022/pages/resources.html
  
 #### Artificial Intelligence 인공지능: 
  - ##### Edureka Artificial Intelligence Tutorial: https://www.youtube.com/watch?v=JMUxmLyrhSk
