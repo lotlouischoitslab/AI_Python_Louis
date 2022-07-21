@@ -8,6 +8,9 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
 
 #### Artificial Intelligence 인공지능: 
  - ##### Algorithms, Data Structures, and Python Review Folders
+    - ###### https://youtu.be/pkYVOmU3MgA
+ - ##### 나도코딩 파이썬 기초
+    - ###### https://www.youtube.com/watch?v=kWiCuklohdY
  - ##### GongbroDesk 파이썬 기초
     - ###### https://www.youtube.com/watch?v=8_VWnRvbGPs
    
