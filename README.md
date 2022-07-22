@@ -22,6 +22,7 @@ AI, Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Py
  - ##### Codebasics Machine Learning Tutorial: https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 
 #### Deep Learning for Computer Vision 컴퓨터비전 딥러닝: 
+ - ##### FreeCodeCamp Deep Learning Tutorial: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s
  - ##### Codebasics Deep Learning Tutorial: https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
  - ##### Sentdex Deep Learning Tutorial: https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
 
