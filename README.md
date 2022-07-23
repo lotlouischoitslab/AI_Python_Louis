@@ -23,15 +23,15 @@ Artificial Intelligence, Machine Learning, Deep Learning and Reinforcement Learn
  - ##### Probability & Statistics for CS by Professor Hongye Liu: https://courses.grainger.illinois.edu/cs361/fa2021/index.html
  - ###### Algorithms & Models of Computation by Professor Jeff Erickson: https://courses.engr.illinois.edu/cs374/fa2019/A/schedule.html
  
-#### Artificial Intelligence 인공지능: 
+### Artificial Intelligence 인공지능: 
  - ##### Edureka Artificial Intelligence Tutorial: https://www.youtube.com/watch?v=JMUxmLyrhSk
    
-#### Applied Machine Learning 머신러닝 응용: 
+### Applied Machine Learning 머신러닝 응용: 
  - ##### Codebasics Machine Learning Tutorial: https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 
-#### Deep Learning for Computer Vision 컴퓨터비전 딥러닝: 
+### Deep Learning for Computer Vision 컴퓨터비전 딥러닝: 
  - ##### FreeCodeCamp Deep Learning Tutorial: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s
  - ##### Codebasics Deep Learning Tutorial: https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
  - ##### Sentdex Deep Learning Tutorial: https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
 
-#### Reinforcement Learning 강화학습: TBA
+### Reinforcement Learning 강화학습: TBA
