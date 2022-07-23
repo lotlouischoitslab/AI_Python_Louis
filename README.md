@@ -9,7 +9,7 @@ Artificial Intelligence, Machine Learning, Deep Learning and Reinforcement Learn
 
 인공지능, 머신러닝, 딥러닝과 강화학습은 컴퓨터과학과 공학분야에서 수학이 많이 필요한 분야입니다. 수학적인 개념이 부족하실 경우 선형대수학, 벡터미적분과 확률과 통계 자료들을 먼저 참고를 해주시기 바랍니다.
 
-### Mathematics Review:
+### Mathematics Review :
 - ##### Professor Gilbert Strang's Linear Algebra: https://youtube.com/playlist?list=PL49CF3715CB9EF31D
 - ##### Professor Leonard's Multivariable Calculus: https://youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7
 - ##### Professor Leonard's Probability and Statistics: https://youtube.com/playlist?list=PL5102DFDC6790F3D0
