@@ -14,9 +14,7 @@ Artificial Intelligence, Machine Learning, Deep Learning and Reinforcement Learn
 - ##### Professor Leonard's Multivariable Calculus: https://youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7
 - ##### Professor Leonard's Probability and Statistics: https://youtube.com/playlist?list=PL5102DFDC6790F3D0
 
-### Useful Resources 자료모음:
-
-#### All Python Stuff 파이썬 자료모음: 
+### All Python Stuff 파이썬 자료모음: 
  - ##### Introduction to Python: https://www.youtube.com/watch?v=Ej_02ICOIgs
  - ##### 나도코딩 파이썬 기초: https://www.youtube.com/watch?v=kWiCuklohdY
  - ##### GongbroDesk 파이썬 기초: https://www.youtube.com/watch?v=8_VWnRvbGPs
